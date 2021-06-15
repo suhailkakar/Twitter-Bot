@@ -1,0 +1,23 @@
+{
+  "name": "kakarsbot",
+  "version": "1.7.5",
+  "description": "Kakar's Twitter Bot",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suhailkakar/Twitter-Bot"
+  },
+  "keywords": [
+    "bot",
+    "twiiter bot",
+    "javascript"
+  ],
+  "author": "Suhail Kakar",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
