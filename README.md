@@ -20,6 +20,22 @@ Twitter users follow other users. If you follow someone you can see their tweets
 ### Deployed In
 * [Heroku](https://www.heroku.com)
 
+### Folder Structure
+
+```
+📦  Twitter-Bot-main
+├─ images
+│  ├─ image.png
+│  └─ logo.png
+├─ src
+│  ├─ config.js
+│  └─ index.js
+├─ .gitignore
+├─ LICENSE
+├─ README.md
+└─ package.json
+```
+
 
 ### Installation
 
