@@ -9,7 +9,7 @@ const retweetLatest = () => {
       const retweetId = data.statuses[0].id_str;
       twit.post("statuses/retweet/" + retweetId, {}, (error, response) => {
         if (response) {
-          console.log("Success! Your bot has retweeted something.");
+          console.log("Success! Kakar's bot has retweeted something.");
         }
         if (error) {
           console.log(error.message);
