@@ -2,7 +2,12 @@
     <img width="200" height="auto" src="./logo.png" alt="Twitter Logo" />
 </p>
    
-**WhatsApp** Messenger, or simply WhatsApp, is an **American** freeware, cross-platform centralized messaging and voice-over-IP service owned by **Facebook**, Inc. It allows users to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other content.
+**Twitter** is an American microblogging and social networking service on which users post and interact with messages known as "tweets". Registered users can post, like, and retweet tweets, but unregistered users can only read them.
+
+Twitter users follow other users. If you follow someone you can see their tweets in your twitter 'timeline'. You can choose to follow people and organisations with similar academic and personal interests to you. You can create your own tweets or you can retweet information that has been tweeted by others. Retweeting means that information can be shared quickly and efficiently with a large number of people.
+
+
+
 
  <img src="./image.png" />
 
