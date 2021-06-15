@@ -39,7 +39,7 @@ Twitter users follow other users. If you follow someone you can see their tweets
 3. Run the app
    ```sh
    node index.js
-   ```)
+   ```
 
 
 
