@@ -17,3 +17,5 @@ Twitter users follow other users. If you follow someone you can see their tweets
 ### Built With
 * [Node JS](https://nodejs.org/en)
 
+### Deployed In
+* [Heroku](https://www.heroku.com)
