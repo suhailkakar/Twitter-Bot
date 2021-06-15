@@ -18,4 +18,25 @@ Twitter users follow other users. If you follow someone you can see their tweets
 * [Node JS](https://nodejs.org/en)
 
 ### Deployed In
-* [Heroku](https://www.heroku.com)
+* [Heroku](https://www.heroku.com
+
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/suhailkakar/Twitter-Bot/
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+   or 
+   
+     ```sh
+   yarn install
+   ```
+3. Run the app
+   ```sh
+   node index.js
+   ```)
