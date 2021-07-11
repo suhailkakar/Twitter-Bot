@@ -61,5 +61,4 @@ function retweet(searchText) {
     })
 }
 
-// Run every 60 seconds
 setInterval(function() { retweet('#javascript OR #typescript'); }, 30000)
