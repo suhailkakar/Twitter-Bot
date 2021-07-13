@@ -61,5 +61,5 @@ function retweet(searchText) {
 }
 
 setInterval(function () {
-  retweet("#javascript OR #typescript");
-}, 30000);
+  retweet("#javascript OR #typescript OR #python OR #programming");
+}, 10000);
