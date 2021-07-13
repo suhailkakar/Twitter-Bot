@@ -52,7 +52,7 @@ A Twitter bot is a type of bot software that controls a Twitter account via the 
 
 3. Run the app
    ```sh
-   node src/index.js
+   node bot.js
    ```
 
 ### Contributing
