@@ -20,17 +20,18 @@ A Twitter bot is a type of bot software that controls a Twitter account via the 
 
 ```
 📦  Twitter-Bot-main
-├─ images
-│  ├─ image.png
-│  └─ logo.png
-├─ src
-│  ├─ config.js
-│  └─ index.js
-├─ .gitignore
-├─ LICENSE
-├─ README.md
-└─ package.json
+├─ images
+│  ├─ image.png
+│  └─ logo.png
+├─ src
+│  ├─ config.js
+│  └─ index.js
+├─ .gitignore
+├─ LICENSE
+├─ README.md
+└─ package.json
 ```
+
 
 ### Installation
 
@@ -39,30 +40,29 @@ A Twitter bot is a type of bot software that controls a Twitter account via the 
    git clone https://github.com/suhailkakar/Twitter-Bot/
    ```
 2. Install NPM packages
-
    ```sh
    npm install
    ```
-
-   or
-
-   ```sh
+   or 
+   
+     ```sh
    yarn install
    ```
-
 3. Run the app
    ```sh
-   node src/index.js
+   node src/index.js 
    ```
+
+
 
 ### Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Commit your Changes (`git commit -m 'Some Good Features'`)
-3. Push to the Code (`git push -u origin master `)
-4. Open a Pull Request
+3. Commit your Changes (`git commit -m 'Some Good Features'`)
+4. Push to the Code (`git push -u origin master `)
+5. Open a Pull Request
 
 ## License
 
@@ -70,4 +70,4 @@ Kakar's Bot is open source software licensed under the MIT License
 
 ### Contributor
 
-- [Suhail Kakar](https://suhailkakar.com)
+* [Suhail Kakar](https://suhailkakar.com)
